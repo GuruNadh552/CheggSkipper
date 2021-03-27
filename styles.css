@@ -1,0 +1,35 @@
+#cheggSkipper{
+    background-color: blueviolet;
+    color: white;
+    position: fixed;
+    top: 100px;
+    right: 50px;
+    z-index: 1000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 24px;
+    font-weight: bold;
+}
+
+#cheggSkip{
+    background-color:#EB7100;
+    color: white;
+    position: fixed;
+    bottom: 140px;
+    right: 50px;
+    z-index: 1000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 24px;
+    font-weight: bold;
+}
+
+#cheggSkipSpan{
+    color: #EB7100;
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    z-index: 1000;
+    font-size: 12px;
+
+}
